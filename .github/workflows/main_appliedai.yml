@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'appliedai'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9D8383E36E5549DB812C4100247E0C2C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5110DB8044CE4A729062982E7B07204C }}
           package: .
